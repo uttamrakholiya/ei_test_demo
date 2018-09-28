@@ -1,0 +1,294 @@
+-> medium post silder
+   details
+   woe_details
+   controller
+   js-2
+   css-1 
+
+--> medium post widget eiie
+		home_page.
+		woe_home.blade
+		connect_social_media-
+		homepage_medium_post-
+
+	translation
+David Edwards Blog
+click here
+read more
+1-css
+1-js
+
+->validation title teaser page module
+	add.blade.php - pages
+	edit-pages
+	js-page
+	pagecontroller
+
+->> wordpress
+	plugin name-Active consumer investigation
+	page : Home page
+
+-> Happyhours
+	events_list.php
+	header.php
+	index.php
+	getrsvp.php
+	ajax_event_info.php
+	ajax_venue_info.php
+
+
+
+05-07-2018
+	ei_test setup PHP 7.2
+	
+->>frontside
+
+1. members.blade.php
+2. detail_page.php	
+3. executive_board.blade.php
+4. staff_profiles.blade.php
+5. woe_detail_page.blade.php
+6. dossier_latetest_blade.php
+7. dossier_details.blade.php
+8. detail_staff.blade.php
+9. frontController.php
+10. app/Helpers/LanguageClass.php
+
+
+->>admin side
+
+1. UsersController.php
+
+2. posts- add.blade.php
+3. users-add.blade.php
+4. users-edit_roles.blade.php
+5. dossier-edit.blade.php
+6. global_viewe_iframe.blade.php
+
+
+
+
+
+profile update
+post-add 		
+user-add
+dossier-edit
+
+edit roles		-pending
+
+
+->>ei_test cookiess
+
+1. resorce/view/layout/front.blade.php
+2. resorce/view/layout/front_woe.blade.php
+3. css-cookieconsent.min.css
+4. js/cookieconsent.min.js
+
+->label translate
+	1.Learn_more 2.cookies_message 3.Allowed 4. Denied 
+
+->complain box
+	1.content.single.php
+	2.active-consumer-investigation-cpt.php
+
+->safeguard
+	1. business-sales - plugin
+	2. FOOTER.PHP	
+	3. function.php
+	4. thank-you-page.php
+
+
+31-7-2018
+->> ei_live local label translate contact us
+	1. inquiry_err_name
+	2. inquiry_err_check
+	3. inquiry_err_email
+	4. inquiry_err_select
+->file name
+	1. frontcontroller
+	2. contactus.blade.php
+
+
+-> TEMPLET SEO	
+	resource/view/admin/templetes
+
+	template.blade.php
+	edit.blade.php
+	view.blade.php
+	tagscontrollers.php
+
+	
+	frontcontroller.php
+	helper/LanguageClass.php
+	-> add database fields
+
+
+-> cousign form validation
+	1. ice cusum.js
+	2. inquire_validation.js
+	3. footer.php
+
+
+->>country SEO	
+	resource/view/admin/countries
+	countriescontroller.php
+	
+	countries.blade.php
+	profile.blade.php
+	country.js
+
+->>Page SEO	
+	resource/view/admin/pages
+		add.blade.php
+		edit.blade.php
+		pagecontroller.php
+		page.js
+
+-> newslatter pop languge wise
+	resources/view/sidebar/connect_social_media.blade.php		
+	woe_home.blade.php
+	newslatters.blade.php
+	executive_board
+
+	news_articale_list
+	news.blade
+	rss.blade
+	media.blade
+	documents.blade
+	resolution.blade
+
+-> custom google search 
+	config/app.php
+	config/laravelGoogleCustomSearchEngine.PHP
+	header.blade.php
+	header_woe.blade.php
+
+-> USER ADD FIELD ALIAS NAME
+	add.blade.php
+	user.js
+	edit.blade.php
+	UsersController.php
+	index.php
+
+-> media Embeded Video validation
+	media.js
+	add.blade.php
+
+-> username add
+	usercontroller.php
+	postcontroller.php
+	user/add.blade.php
+	user/edit.blade.php
+	user/index.blade.php
+	post/add.blade.php
+	post/edit.blade.php
+->add author
+	post/add.blade.php
+	post/edit.blade.php
+	postpage.js
+
+-> home page slider
+	dossierscontrollers.php
+	dossies/news.blade.php	
+
+
+
+-> SEO LANGUAGE wise 
+	*** add field in post_contents
+	-->DOSSIERS
+	dossiersController.php
+	dossoer/add.blade.php
+	dossoer/edit.blade.php
+
+	-->PAGES
+	pagecontrollers.php
+	pages/add.blade.php
+	pages/edit.blade.php
+	page.js
+
+	-->POSTS
+	postcontrollers.php
+	posts/add.blade.php
+	posts/edit.blade.php
+
+	-->STAFF PROFILE
+	usercontrollers.php	
+	staff/add_profiles.blade.php
+	staff/edit_profiles.blade.php
+
+	-->COUNTRY
+	***add field seo in country_languages
+	Countrycontrollers.php	
+	country/county.blade.php
+	country/profile.blade.php
+	country.js
+
+
+	-->Templete
+	Tagscomtrollers.php
+	templte/templte.blade.php
+	templte/edit.blade.php
+	templte/view.blade.php
+
+	frontcontroller.php
+	homecontroller.php
+
+
+-->PROGRASSIV APP
+	server.worker.js
+	manifest.json
+	frontlayout.blade.php
+	wordofedulayout.blade.php
+	logo uploda
+
+->> mail spam forgot password
+	admin/logincontroller.php
+	admin/password.blade.php
+
+->>>forgot password 
+	
+	auth/passwordcontroller.php
+	routes.php
+	auth/resetpassword.blade.php
+	auth/emails/password.blade.php
+	login.blade.php
+
+->> Dimensions add
+	mediacontroller.php
+	media/slideshow_media.blade.php
+	media/get_insert_media.blade.php
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+bindu.cyblance@gmail.com
+
+
+https://dev.ei-ie.org
+https://www.optimizesmart.com/how-to-turn-on-ip-anonymization-in-google-analytics-and-google-tag-manager/
+
+michael@nolimitagency.com,oliver@nolimitagency.com
+/usr/local/bin/php /home/deveiie/public_html/artisan schedule:run 1>> /dev/null 2>&1
+<?php
+
+echo date('Y-m-d H:i:s');
+editor copy text tag allow ckeditor
+https://stackoverflow.com/questions/50548573/are-pwa-sites-in-same-domain-not-able-to-install-both-on-home-screen
+?>
+
+http://hayageek.com/google-translate-api-tutorial/#php-example		
+
