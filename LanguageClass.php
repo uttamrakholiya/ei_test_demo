@@ -16,6 +16,7 @@ use DB;
 use LaravelLocalization;
 use Languagehelper;
 use Illuminate\Support\Facades\Auth;
+use Validater;
 
 class LanguageClass{
 	
