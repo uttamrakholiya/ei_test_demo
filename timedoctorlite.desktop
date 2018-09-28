@@ -1,9 +1,0 @@
-[Desktop Entry]
-Type=Application
-Version=0.9.4
-Name=Time Doctor Lite
-Comment=An application for tracking your working hours.
-Icon=/opt/timedoctorlite/timedoctorlite.xpm
-Exec=/opt/timedoctorlite/timedoctorlite
-Terminal=false
-Path=/opt/timedoctorlite
